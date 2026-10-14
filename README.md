@@ -1,96 +1,134 @@
-# Hi there, I'm Arpita! 👋
 
-### Bachelor of Information Technology Student | Aspiring IT Professional
+<div align="center">
+
+# Hi, I'm Arpita! 👋
+
+### IT Student | Cybersecurity | Cloud Computing | Python
 
 📍 Sydney, Australia
 
-🎓 Studying Bachelor of Information Technology at Victoria University Sydney
+🎓 Bachelor of Information Technology  
+Victoria University Sydney
 
-💻 Interested in Cybersecurity, Cloud Computing, Software Development and IT Infrastructure
-
-🚀 Seeking entry-level IT opportunities, internships and opportunities to gain practical experience
+💼 Open to Entry-Level IT Roles & Internships
 
 ---
 
+### 🌟 Learning. Building. Growing.
+
+I'm an aspiring IT professional passionate about
+solving problems, exploring new technologies,
+and building practical solutions.
+
+</div>
+
 ## 👩‍💻 About Me
 
-I'm a passionate IT student who enjoys learning new technologies, solving technical problems and building practical projects.
+- 🎓 Bachelor of IT student at Victoria University Sydney
+- 🔐 Interested in Cybersecurity, Cloud & IT Infrastructure
+- 💻 Hands-on experience through university projects
+- 🌱 Currently developing my Python, Git and cloud skills
+- 🎯 Working towards my first professional IT role
 
-Through my university coursework and hands-on projects, I've gained experience with programming, networking, cloud platforms, cybersecurity tools and software development.
-
-I'm currently exploring different areas of IT while developing the skills needed to begin my professional career.
+---
 
 ## 🛠️ Technical Skills
 
-**Programming & Web Development**
-- Python
-- SQL and MySQL
-- PHP, HTML, CSS and JavaScript
+### Programming & Web Development
 
-**Cloud & Infrastructure**
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Docker
-- Linux and Windows Server
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cybersecurity & Networking**
-- Wireshark
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Cybersecurity & Networking
+
 - Kali Linux
+- Wireshark
 - Cisco Packet Tracer
 - Network configuration and troubleshooting
+- Windows Server and PowerShell
 
-**Additional Tools**
-- PowerShell
-- Git and GitHub (currently learning)
+---
 
-## 🚀 Featured Academic Projects
+## 🚀 Featured Projects
 
-### 🛡️ ThreatSense — Network Threat Detection & Visualisation
+### 🛡️ ThreatSense — Network Threat Detection
 
-A team-based cybersecurity capstone project focused on network threat detection, monitoring and visualisation.
+**Cybersecurity Capstone | Team Project**
 
-**Technologies:** Python, Docker, Wazuh, networking and web technologies.
+A network threat detection and visualisation
+system developed as part of my university capstone.
 
-**My involvement:** System setup, configuration, testing, technical troubleshooting and project documentation.
+**Technologies:** Python, Docker, Wazuh
+
+**My Contributions:**
+- Environment and system configuration
+- Integration testing and troubleshooting
+- Technical documentation
+- Supporting project demonstration
+
+🔗 [View ThreatSense Repository](https://github.com/Arpita-Arpita/ThreatSense)
+
+---
 
 ### ☁️ Local LLM Deployment on Google Cloud
 
-A cloud computing project involving the deployment of a locally hosted large language model using Ollama and Open WebUI on Google Cloud.
+Deployed a local large language model environment
+using Google Cloud, Ubuntu, Docker, Ollama
+and Open WebUI.
 
-**Technologies:** GCP, Ubuntu Linux, Docker, Ollama and Open WebUI.
+**Focus:** Cloud infrastructure, VM configuration,
+deployment and troubleshooting.
+
+---
 
 ### 📚 Library Book Management System
 
-A web-based application developed as part of my university coursework to manage library books and categories.
+Developed a web-based library management
+application using PHP and MySQL.
 
-**Technologies:** PHP, MySQL, HTML and CSS.
+**Focus:** Database operations, web development
+and backend programming.
 
-### 🌐 AWS Static Website Hosting
-
-A practical cloud project exploring static website hosting and content delivery.
-
-**Technologies:** Amazon S3, Amazon CloudFront and AWS.
+---
 
 ## 📖 Currently Learning
 
 - Git and GitHub workflows
-- Python programming
+- Python and automation
 - Cybersecurity fundamentals
-- Cloud infrastructure
-- IT troubleshooting and automation
-
-## 🎯 Career Goals
-
-My goal is to begin my IT career in Sydney, develop real-world technical experience and contribute to meaningful technology projects.
-
-I'm open to internships, junior IT roles, IT support opportunities and graduate pathways.
-
-## 🤝 Let's Connect
-
-I'm always interested in learning from other developers, IT professionals and technology communities.
-
-**LinkedIn:** Add professional LinkedIn profile link here
+- Cloud computing
+- IT support and troubleshooting
 
 ---
 
-*Learning, building and improving — one project at a time.*
+## 🎯 Career Goals
+
+I'm looking for opportunities to apply my
+technical knowledge, gain industry experience
+and grow as an IT professional.
+
+Interested in:
+- IT Support and Help Desk
+- Cybersecurity Internships
+- Cloud and Infrastructure Roles
+- Junior Developer Opportunities
+
+---
+
+## 🤝 Connect With Me
+
+📍 Sydney, Australia
+
+🔗 [My GitHub Profile](https://github.com/Arpita-Arpita)
+
+*Always learning, always improving.*
